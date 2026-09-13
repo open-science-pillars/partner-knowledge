@@ -37,7 +37,7 @@ Owned by @open-science-pillars/provider-stewards (`CODEOWNERS`); one person
 holds the team during the interim solo period, and accepting a
 maintainer is a membership change, never a rearrangement.
 
-Stewards: none engaged yet. A partner bundle arrives with its steward, who signs its concepts; the steward team is created in build-kit's registry when the first bundle does.
+Provider contacts: none engaged yet. A partner bundle arrives with a maintainer who holds it and a named contact at the partner who could confirm its facts; that confirmation is invited at every rung of the ladder (consulted, reviewer, steward) and required at none, and the steward team is created in build-kit's registry when the first bundle does.
 
 ## What to do here
 
@@ -45,14 +45,18 @@ Stewards: none engaged yet. A partner bundle arrives with its steward, who signs
   repository for its first release; describe the analyses you would want
   from these capabilities in the marketplace
   [Discussions](https://github.com/open-science-pillars/marketplace/discussions).
-- **A candidate steward**: open
-  the new domain capability issue in the organization's
-  [.github](https://github.com/open-science-pillars/.github) repository;
-  a capability here starts with the people who sign its facts.
+- **A person at a data center or a partner organization**: start by
+  confirming or correcting a single concept from the organization's
+  [confirm-a-concept issue](https://github.com/open-science-pillars/.github/issues/new?template=confirm_concept.yml),
+  no tooling needed; the new domain capability issue in the same
+  [.github](https://github.com/open-science-pillars/.github) repository
+  is there when you want more. A capability here starts with the people
+  who know the data; their confirmation is invited at every step and
+  required at none.
 - **A maintainer**: promotion out of planned is governed, cross-cutting
   work, never a quiet commit: a dated entry in the
   [pre-registered plan](https://github.com/open-science-pillars/marketplace/blob/main/docs/phase2-preregistration.md),
-  a steward who signs, a knowledge bundle that conforms to the knowledge
+  a named provider contact who has been invited, a knowledge bundle that conforms to the knowledge
   format and is validated in evals, and only then the package, surfaces
   and runtime metadata that the planned status forbids. The proposal is
   decided under the roadmap proposal labels.
